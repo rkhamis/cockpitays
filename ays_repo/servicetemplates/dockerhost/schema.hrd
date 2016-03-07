@@ -1,0 +1,14 @@
+
+
+description = type:multiline
+docker.size = type:int descr:'1,2,4,8 or 16 (is in GB)' default:8
+disk.size = type:int descr:'20,40,80,100 (is in GB)' default:10
+os.size = default:512 type:int
+os.image =  descr:'image as used in ms1' default:'Ubuntu 15.10 x64' type:str
+
+sshkey = descr:'authorized sshkey' consume:sshkey:1:1
+
+vdc = type:str parent:'vdc'
+
+aysfs = type:bool descr:'install JS in AYSFS mounted mode' default:True
+agent = type:bool descr:'start agent by on installation' default:True
