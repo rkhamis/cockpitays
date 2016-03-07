@@ -31,3 +31,7 @@ A | 1457362007 | cockpitconfig!main   | input    | START
 A | 1457362007 | cockpitconfig!main   | input    | OK
 A | 1457362007 | cockpitconfig!main   | hrd      | START
 A | 1457362007 | cockpitconfig!main   | hrd      | OK
+A | 1457363141 | cockpitconfig!main   | input    | START
+A | 1457363141 | cockpitconfig!main   | input    | OK
+A | 1457363141 | cockpitconfig!main   | hrd      | START
+A | 1457363141 | cockpitconfig!main   | hrd      | OK
