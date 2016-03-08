@@ -1,0 +1,21 @@
+
+vdcfarm_cockpit:
+    apiurl: 'be-scale-2.demo.greenitglobe.com'
+    login: "reem"
+    passwd: "reemrooter"
+    description: "g8cockpit blueprint"
+    account: "reem"
+
+vdc_bescale2:
+    location: "be-scale-2"
+    vdcfarm : "cockpit"
+
+sshkey_cockpitkey:
+    key.passphrase: ''
+
+dockerhost_dh1:
+    vdc: "bescale2"
+    aysfs: True
+
+docker_docker1:
+    dockerhost: 'dh1'

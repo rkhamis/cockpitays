@@ -1,0 +1,6 @@
+description = type:multiline  
+location = type:str @ask
+vdcname =  descr:'is space name in openvcloud (ms1), still old name' type:str 
+vdcfarm = type:str parent:'vdcfarm'
+
+

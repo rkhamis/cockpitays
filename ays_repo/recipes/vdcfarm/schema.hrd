@@ -1,0 +1,5 @@
+apiurl = type:str  default:'www.mothership1.com'
+login = type:str  default:'login'
+passwd = type:str  @ask
+description = type:multiline  @ask
+account = type:str @ask
