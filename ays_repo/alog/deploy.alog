@@ -103,3 +103,9 @@ A | 1457427315 | vdc!bescale2         | install  | OK
 A | 1457427315 | dockerhost!dh1       | install  | START
 A | 1457427439 | dockerhost!dh1       | install  | ERROR
 L | 1457427439 | 5        | install  | Exception: cuisine.file_read: file does not exists /opt/jumpscale8go//src/github.com/g8os/core/agent.toml
+G | 1457427707 | init_pre | 26e65a594b6e69791b5f282b527b808dd7cc2261
+R | 1457427707 | 5        | init       | 2016/03/08 09:01:47
+A | 1457427707 | dockerhost!dh1       | input    | START
+A | 1457427707 | dockerhost!dh1       | input    | OK
+A | 1457427707 | dockerhost!dh1       | hrd      | START
+A | 1457427707 | dockerhost!dh1       | hrd      | OK
