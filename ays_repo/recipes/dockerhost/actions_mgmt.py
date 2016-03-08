@@ -128,6 +128,7 @@ class Actions(ActionsBase):
 
         # get gid from cockpit config
         if self.service.hrd.getBool('agent'):
+            import ipdb;ipdb.set_trace()
             executor.cuisine.builder._startCore(j.application.whoAmI.gid, machine.id)
 
     def uninstall(self):
