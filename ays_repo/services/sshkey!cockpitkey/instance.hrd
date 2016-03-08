@@ -1,0 +1,39 @@
+key.name                       = 'cockpitkey'
+key.passphrase                 = 
+key.priv                       = 
+    -----BEGIN RSA PRIVATE KEY-----
+    MIIEogIBAAKCAQEAyqe8oPKBkWATuYhaqQaNoH1evITeUdAm8mxyFxeBlZJumNp7
+    SJB9r9ZST2pon1z28K8iugcPOYXwO4ELysyOqHsb0wnDesk8oSalX0g3cCUSlg6p
+    7XpNJkrxEAvq3pYqOS9kd2HotQvdufZ9MuhVySoDZBKB6HnfIpqvtWNHPocFdQii
+    avOs8p11uSSFOtHBn7/OtxS7NaV39qKCCfWKUAFVHyNXVu1i02VHELPFEv4nKW+x
+    cFUcu4gP7DIQMcIgvTJBDCgDK72568UD76cFodOiFwQ39Nllok/CphqP1MUNLS2J
+    WrPYOsNnjgGQTk9WAWPeMv2jIUodmRBMlmu4GQIDAQABAoIBAA4rKA8ApXpqgzaH
+    h/8lTCWaXlND3t9NdEuitV9T72VrtXvOWqw6He97Rony4JmzwDgXpo/nCnN1H9Sp
+    Mw/cuWSiJtHcbuRYyXpi31EIFYgrr176a3sE//vbZXs/ug4R5aXV4GpQWBrAV6I2
+    z44NnGHSJCaM/LQqQSWENyCxbju6yQjo2afqckBPYuRuVGwRlzsycgDEKcxpYWTm
+    evECMjMRmLhugOnuiEgAOt6H3mQ354osYlSXFHzgg2u1Gn05P/g8xzyOxxKo2ukK
+    dEE5JddoNmj4iTBHFLOjOdG86UVTYy9BEM1pwWJ/nCOMOBgdaAlXnQFEJh379b+f
+    EYTc8lkCgYEA8cHJuYTOzbVxtVbdukQIenGhmkvLgX5GvLPlB0gRK8QzwcFfzPdx
+    ZKZZBVuRS+vYZMgV2FsrfvwRIJgAyokBf1OTbClZyRGyc2JtrjK/wz1wjNpETkez
+    ca1f7LUpUMu4XgpRVTCnaA7KfwL969GZz54P8Q7JnlaTQtFDaERasgsCgYEA1pg1
+    8FfHjvdaR9Mt06hXyaZ7VIhw+VItk3cK0EStjGa3WdFZFlxi82tCZxk2wjoghV1x
+    u4dInsGIIF8AirJ9Eml3hyahxkHT/Mr4DwYEB3kq/7eANg/pq2V29i4/aLOkZpR8
+    xfXVh0nAcXk6MUNNQvdLFFBG02UGbfexHcJz2OsCgYAmrI2MtAYxOjl6fO7zgTap
+    /8uOV1my2XSPc2fMBmdYzQZKlJiyvVLSexn6lW9k6dGwLaHw/oSyx7glsqtNuyUW
+    LVSEFQlb9QzLEI/jMhMjNIzwu2n569Z09PtHbqOxXSWdRaFFM4dUSilysBPWya0F
+    XY/HTEpMniTop3lVELpBiQKBgDSFfG4ejdEH6Si7HvQ2t4W7IWRHIJ9k5ZK6CAOB
+    S5iZazaobk1yvyUkk1P4b9aJs3vwqu1i5vs0EsUZe2B23vWqqn6BjgagBepRIvVK
+    W6IYndWIa/DPZDl20+7c0tglX49buE4bJO+/tUIQkZWNC1PggpeuLid/ClvPy6Gk
+    /gWRAoGAHq/RDTtd5wM3Fi//0fJFB7DGPOIbpUFQt28uHmjqC3Cas3/x0fNyHq/h
+    ovYu2KSROI9x/sjaaczhkbbQLWTrHEkwXVWTYUHYp7ZF+Yzy3l4dyancVKgkkUzw
+    nwBnGH/JEWv0sLVAzr+m0urhd4iLRfK6S/D98ep21o2GcR+zavw=
+    -----END RSA PRIVATE KEY-----
+
+key.pub                        = 
+    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKp7yg8oGRYBO5iFqpBo2gfV68hN5R0CbybHIXF4GVkm6Y2ntIkH2v1lJPamifXPbwryK6Bw85hfA7gQvKzI6oexvTCcN6yTyhJqVfSDdwJRKWDqntek0mSvEQC+relio5L2R3Yei1C9259n0y6FXJKgNkEoHoed8imq+1Y0c+hwV1CKJq86zynXW5JIU60cGfv863FLs1pXf2ooIJ9YpQAVUfI1dW7WLTZUcQs8US/icpb7FwVRy7iA/sMhAxwiC9MkEMKAMrvbnrxQPvpwWh06IXBDf02WWiT8KmGo/UxQ0tLYlas9g6w2eOAZBOT1YBY94y/aMhSh2ZEEyWa7gZ root@newjs8
+
+required                       = True
+
+service.domain                 = 'jumpscale'
+service.name                   = 'sshkey'
+service.version                = 
