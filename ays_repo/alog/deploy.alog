@@ -21,3 +21,7 @@ A | 1457428790 | docker!docker1       | input    | START
 A | 1457428790 | docker!docker1       | input    | OK
 A | 1457428790 | docker!docker1       | hrd      | START
 A | 1457428790 | docker!docker1       | hrd      | OK
+A | 1457429906 | cockpitconfig!main   | input    | START
+A | 1457429906 | cockpitconfig!main   | input    | OK
+A | 1457429906 | cockpitconfig!main   | hrd      | START
+A | 1457429906 | cockpitconfig!main   | hrd      | OK

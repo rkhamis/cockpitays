@@ -1,0 +1,4 @@
+dns = type:str descr:'hostname of the cockpit'
+node.addr = type:str descr:'IP address of the cockpit vm'
+ssh.port = type:int descr:'SSH port on the cockpit vm'
+bot.token = type:str descr:'token of the telegram bot'
