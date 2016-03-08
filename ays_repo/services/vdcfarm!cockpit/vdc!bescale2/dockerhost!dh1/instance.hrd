@@ -4,9 +4,14 @@ aysfs                          = 'True'
 
 description                    = 
 
-disk.size                      = 20
+disk.size                      = '20'
 
-docker.size                    = 8
+docker.size                    = '8'
+
+machine.id                     = 790
+machine.privateip              = '192.168.103.254'
+machine.publicip               = '10.101.105.180'
+machine.sshport                = 2200
 
 os.image                       = 'ubuntu 15.10 x64'
 os.size                        = '512'
