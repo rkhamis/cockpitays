@@ -31,3 +31,7 @@ A | 1457427733 | vdc!bescale2         | install  | OK
 A | 1457427733 | dockerhost!dh1       | install  | START
 A | 1457427754 | dockerhost!dh1       | install  | ERROR
 L | 1457427754 | 5        | install  | Exception: cuisine.file_read: file does not exists /opt/jumpscale8/go//src/github.com/g8os/core/agent.toml
+A | 1457427972 | cockpitconfig!main   | input    | START
+A | 1457427972 | cockpitconfig!main   | input    | OK
+A | 1457427972 | cockpitconfig!main   | hrd      | START
+A | 1457427972 | cockpitconfig!main   | hrd      | OK
