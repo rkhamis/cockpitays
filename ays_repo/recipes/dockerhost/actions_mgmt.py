@@ -123,6 +123,7 @@ class Actions(ActionsBase):
             executor.cuisine.installerdevelop.jumpscale8()
             if self.service.hrd.getBool('agent'):
                 # get gid from cockpit config
+                import ipdb;ipdb.set_trace()
                 executor.cuisine.builder.core(j.application.whoAmI.gid, machine.id)
 
         # get gid from cockpit config
