@@ -1,0 +1,13 @@
+account                        = 'reem'
+
+apiurl                         = 'be-scale-2.demo.greenitglobe.com'
+
+description                    = 'g8cockpit blueprint'
+
+login                          = 'reem'
+
+passwd                         = 'reemrooter'
+
+service.domain                 = 'jumpscale'
+service.name                   = 'vdcfarm'
+service.version                = 
