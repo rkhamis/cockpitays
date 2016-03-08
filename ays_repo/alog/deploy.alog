@@ -92,3 +92,14 @@ A | 1457427307 | docker!docker1       | input    | START
 A | 1457427307 | docker!docker1       | input    | OK
 A | 1457427307 | docker!docker1       | hrd      | START
 A | 1457427307 | docker!docker1       | hrd      | OK
+G | 1457427307 | init     | 634c96c5c648f2391dbff2071738c5dca1303764
+R | 1457427312 | 4        | install    | 2016/03/08 08:55:12
+A | 1457427312 | cockpitconfig!main   | install  | OK
+A | 1457427312 | sshkey!cockpitkey    | install  | START
+A | 1457427312 | sshkey!cockpitkey    | install  | OK
+A | 1457427312 | vdcfarm!cockpit      | install  | OK
+A | 1457427312 | vdc!bescale2         | install  | START
+A | 1457427315 | vdc!bescale2         | install  | OK
+A | 1457427315 | dockerhost!dh1       | install  | START
+A | 1457427439 | dockerhost!dh1       | install  | ERROR
+L | 1457427439 | 5        | install  | Exception: cuisine.file_read: file does not exists /opt/jumpscale8go//src/github.com/g8os/core/agent.toml
