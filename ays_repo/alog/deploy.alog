@@ -1,1 +1,23 @@
 R | 1457428790 | 1        | unknown    | 2016/03/08 09:19:50
+G | 1457428790 | init_pre | 8dc7eadea4b86b7d851f13083cfad798bd49b60a
+R | 1457428790 | 2        | init       | 2016/03/08 09:19:50
+A | 1457428790 | vdcfarm!cockpit      | input    | START
+A | 1457428790 | vdcfarm!cockpit      | input    | OK
+A | 1457428790 | vdcfarm!cockpit      | hrd      | START
+A | 1457428790 | vdcfarm!cockpit      | hrd      | OK
+A | 1457428790 | vdc!bescale2         | input    | START
+A | 1457428790 | vdc!bescale2         | input    | OK
+A | 1457428790 | vdc!bescale2         | hrd      | START
+A | 1457428790 | vdc!bescale2         | hrd      | OK
+A | 1457428790 | sshkey!cockpitkey    | input    | START
+A | 1457428790 | sshkey!cockpitkey    | input    | OK
+A | 1457428790 | sshkey!cockpitkey    | hrd      | START
+A | 1457428790 | sshkey!cockpitkey    | hrd      | OK
+A | 1457428790 | dockerhost!dh1       | input    | START
+A | 1457428790 | dockerhost!dh1       | input    | OK
+A | 1457428790 | dockerhost!dh1       | hrd      | START
+A | 1457428790 | dockerhost!dh1       | hrd      | OK
+A | 1457428790 | docker!docker1       | input    | START
+A | 1457428790 | docker!docker1       | input    | OK
+A | 1457428790 | docker!docker1       | hrd      | START
+A | 1457428790 | docker!docker1       | hrd      | OK

@@ -1,0 +1,16 @@
+description                    = 
+
+location                       = 'be-scale-2'
+
+parent                         = 'vdcfarm!cockpit'
+
+producer.vdcfarm               = 
+    'jumpscale|vdcfarm!cockpit',
+
+service.domain                 = 'jumpscale'
+service.name                   = 'vdc'
+service.version                = 
+
+vdcfarm                        = 'cockpit'
+
+vdcname                        = 'bescale2'
