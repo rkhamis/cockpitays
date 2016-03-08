@@ -70,3 +70,25 @@ A | 1457427290 | sshkey!cockpitkey    | input    | OK
 A | 1457427290 | sshkey!cockpitkey    | hrd      | START
 A | 1457427290 | sshkey!cockpitkey    | hrd      | ERROR
 L | 1457427290 | 5        | hrd      | Exception: ssh-agent is not running and you need it, please run: eval $(ssh-agent -s)
+G | 1457427307 | init_pre | 2d8e842b103bda99b87b0dbb40cefd30482dae9e
+R | 1457427307 | 3        | init       | 2016/03/08 08:55:07
+A | 1457427307 | vdcfarm!cockpit      | input    | START
+A | 1457427307 | vdcfarm!cockpit      | input    | OK
+A | 1457427307 | vdcfarm!cockpit      | hrd      | START
+A | 1457427307 | vdcfarm!cockpit      | hrd      | OK
+A | 1457427307 | vdc!bescale2         | input    | START
+A | 1457427307 | vdc!bescale2         | input    | OK
+A | 1457427307 | vdc!bescale2         | hrd      | START
+A | 1457427307 | vdc!bescale2         | hrd      | OK
+A | 1457427307 | sshkey!cockpitkey    | input    | START
+A | 1457427307 | sshkey!cockpitkey    | input    | OK
+A | 1457427307 | sshkey!cockpitkey    | hrd      | START
+A | 1457427307 | sshkey!cockpitkey    | hrd      | OK
+A | 1457427307 | dockerhost!dh1       | input    | START
+A | 1457427307 | dockerhost!dh1       | input    | OK
+A | 1457427307 | dockerhost!dh1       | hrd      | START
+A | 1457427307 | dockerhost!dh1       | hrd      | OK
+A | 1457427307 | docker!docker1       | input    | START
+A | 1457427307 | docker!docker1       | input    | OK
+A | 1457427307 | docker!docker1       | hrd      | START
+A | 1457427307 | docker!docker1       | hrd      | OK

@@ -4,7 +4,7 @@ location                       = 'be-scale-2'
 
 parent                         = 'vdcfarm!cockpit'
 
-producer.vdcfarm               = 
+producer.vdcfarm               =
     'jumpscale|vdcfarm!cockpit',
 
 service.domain                 = 'jumpscale'
